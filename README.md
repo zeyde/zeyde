@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate electrical and electronics engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **zeynepdere025@gmail.com**
 
